@@ -12,34 +12,32 @@
 
 </div>
 
----
+## About me
 
-## 👋 About me
+I'm a self-taught developer from Horten, Norway, and I've been writing code since I was 15. These days I'm the only IT person at the BI Student Organisation (BISO), so the web platform, the mobile app, the Microsoft 365 tenant, payments, integrations and security are all mine to build and run.
 
-I'm a self-taught developer who has been writing code since I was 15, based in Horten, Norway. Today I'm the sole IT resource at the **BI Student Organisation (BISO)**, where I own everything end to end: the web platform, the mobile app, the Microsoft 365 tenant, payments, integrations and security.
+I like taking a product from idea to production and then keeping it running. Maintainability matters to me, and so does building something people actually use.
 
-I like taking a product from idea to production, then keeping it running and maintainable. I care about developer experience, product taste and solving real problems for real users.
+I'm open to new roles, on-site or remote. I'm most interested in Next.js and React, frontend infrastructure, AI applications and developer tooling.
 
-**I'm open to new opportunities, both on-site and remote.** I'm especially interested in Next.js and React, frontend infrastructure, AI applications and developer tooling.
-
-## 📈 By the numbers
+## By the numbers
 
 | | |
 |---|---|
-| 📱 **~6,000** | app downloads, with **~5,000** registered users |
-| 🌍 **20,000+** | visitors across the projects I've built |
-| 🏫 **4** | BI campuses using the platform every day |
-| 📦 **50+** | GitHub repositories |
-| ⌨️ **~5 years** | of near-daily coding |
+| ~6,000 | app downloads, with ~5,000 registered users |
+| 20,000+ | visitors across the projects I've built |
+| 4 | BI campuses using the app and the platform |
+| 50+ | GitHub repositories |
+| ~5 years | of near-daily coding |
 
-## 🔭 What I'm up to
+## What I'm up to
 
-- 🌐 Running and evolving **[BISO-Sites](https://github.com/biso-no/BISO-Sites)**, the unified web platform at [biso.no](https://biso.no)
-- 📱 Shipping new features in **[BISO-Flutter](https://github.com/biso-no/BISO-Flutter)**, live on the App Store
-- 🤖 Building AI features on Anthropic's Claude models: receipt reading for reimbursements, an in-app assistant and an agentic admin assistant
-- 🏆 Preparing to compete solo in **NM i AI** (the Norwegian AI Championship)
+- Maintaining and extending [BISO-Sites](https://github.com/biso-no/BISO-Sites), the web platform behind [biso.no](https://biso.no)
+- Adding features to [BISO-Flutter](https://github.com/biso-no/BISO-Flutter), the BISO mobile app on the App Store
+- Building AI features on Anthropic's Claude models: receipt reading for reimbursements, an in-app assistant and an agentic admin assistant
+- Planning to enter NM i AI (the Norwegian AI Championship) as a solo participant
 
-## 🛠️ Tech stack
+## Tech stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -53,17 +51,17 @@ I like taking a product from idea to production, then keeping it running and mai
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-**Also:** Expo / React Native, PHP, SQL, PowerShell, REST APIs, Microsoft Graph, SharePoint, Power Automate, Power BI, Vipps Checkout
+Also: Expo / React Native, PHP, SQL, PowerShell, REST APIs, Microsoft Graph, SharePoint, Power Automate, Power BI, Vipps Checkout
 
-## 🚀 Selected work
+## Selected work
 
 | Project | What it is |
 |---|---|
-| [**BISO-Sites**](https://github.com/biso-no/BISO-Sites) | Unified web platform: content, events, payments, recruitment, reimbursements, a page editor and an admin center. Next.js, Appwrite |
-| [**BISO-Flutter**](https://github.com/biso-no/BISO-Flutter) | Mobile hub for students: events, web shop, volunteering, membership and AI-assisted expense reimbursements. Flutter |
-| [**heien.dev**](https://heien.dev) | My interactive portfolio: a draggable Next.js grid with animations, deployed on Vercel |
+| [BISO-Sites](https://github.com/biso-no/BISO-Sites) | Unified web platform: content, events, payments, recruitment, reimbursements, a page editor and an admin center. Next.js, Appwrite |
+| [BISO-Flutter](https://github.com/biso-no/BISO-Flutter) | Mobile hub for students: events, web shop, volunteering, membership and AI-assisted expense reimbursements. Flutter |
+| [heien.dev](https://heien.dev) | My interactive portfolio: a draggable Next.js grid with animations, deployed on Vercel |
 
-## 📊 GitHub stats
+## GitHub stats
 
 <div align="center">
 
@@ -86,7 +84,7 @@ I like taking a product from idea to production, then keeping it running and mai
 
 </div>
 
-## 🐍 Contribution snake
+## Contribution snake
 
 <div align="center">
 
@@ -98,17 +96,17 @@ I like taking a product from idea to production, then keeping it running and mai
 
 </div>
 
-## 🎮 Beyond code
+## Outside of work
 
-Gym · Formula 1 · Competitive multiplayer games
+I go to the gym, watch Formula 1 and play competitive multiplayer games.
 
-## 📬 Get in touch
+## Get in touch
 
 I'm happy to talk about web platforms, developer tooling, AI applications or a role on your team.
 
-- 🌍 **Portfolio:** [heien.dev](https://heien.dev)
-- 💼 **LinkedIn:** [linkedin.com/in/markusheien](https://linkedin.com/in/markusheien)
-- ✉️ **Email:** [markus@hdsoftware.no](mailto:markus@hdsoftware.no)
+- Portfolio: [heien.dev](https://heien.dev)
+- LinkedIn: [linkedin.com/in/markusheien](https://linkedin.com/in/markusheien)
+- Email: [markus@hdsoftware.no](mailto:markus@hdsoftware.no)
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=0,2,2,12,12&section=footer" width="100%" alt="" />
